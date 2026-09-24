@@ -7,8 +7,7 @@ Lista de atividades e explicações sobre elas:
     2.Atividades_de_Data_Science_NumPY,_SciPy,_Pandas_e_Matplotlib_Bruno_Da_Silva_Negy_6ºD_6Periodo: Uma atividade focada em revisar os conteúdos de algumas bibliotecas de Python, sendo 20 exercícios de NumPy, 20 exercícios de SciPY, 20 exercícios de Pandas e 20 exercícios de Matplotlib, totalizando 80 exercícios de treino e revisão.
     3.svm_iris_aula_descritivo_Bruno_da_Silva_Negy_6D_5P: Foi realizado utilizando um arquivo .csv, criando o dataframe utilizando Pandas, e depois classificando flores pela sua característica
     4.classificacao-svm-bruno-da-silva-6d-6p: Usando o dataset envolvendo informações sobre Câncer, conseguimos classificar parcialmente o câncer entre benigno e maligno de acordo com suas características classificatórias, fazendo o aprendizado de máquina.
-    5.eleicao_1936_literary_digest: O QUE FOI FEITO:
-1. Base de dados 'LitDigestFull.xlsx' (aba '1936') carregada e inspecionada.
+    5.eleicao_1936_literary_digest: O QUE FOI FEITO: 1. Base de dados 'LitDigestFull.xlsx' (aba '1936') carregada e inspecionada.
 2. Valores ausentes/nulos e linhas estruturais ('TOTALS:') removidos.
 3. Colunas desnecessárias excluídas e nomes padronizados para análise.
 4. Análise Exploratória de Dados (EDA) concluída (.describe(), somatórias de votos).
